@@ -1,0 +1,71 @@
+/* Global Styling */
+html {
+    background-color: #E6E6FA;
+}
+
+/* Header Section */
+h1 {
+    color: #191970;
+}
+
+/* Navigation Section */
+.nav {
+    display: flex;
+    margin-bottom: .5rem;
+}
+
+.nav-link {
+    margin-right: .5rem;
+}
+
+/* Title 1 Section */
+.title1 {
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+.title1 h2 {
+    color: #191970;
+    text-align: center;
+}
+
+/* Info Section */
+.info p {
+    color: #191970;
+}
+
+.info p .span1 {
+    font-weight: bolder;
+}
+
+.info p .span2 {
+    font-style: italic;
+}
+
+.info-list li {
+    color: #191970;
+}
+
+.info-list #list-item1 {
+    color: red;
+}
+
+.info-list #list-item2 {
+    color: red;
+}
+
+/* Title 2 Section */
+.title2 {
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+.title2 h2 {
+    color: #191970;
+    text-align: center;
+}
+
+/* Footer Section */
+p {
+    color: #191970;
+}
